@@ -1,7 +1,7 @@
 # Emotion Detection NLP Project
 
 **Author:** Julio Moya  
-**Email:** julio.moya.ai@gmail.com  
+**Email:** julio.moya.ia.2025@gmail.com  
 **Role:** Applied NLP Engineer  
 
 ## Project Overview

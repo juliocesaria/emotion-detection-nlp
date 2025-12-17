@@ -29,6 +29,11 @@ The goal is to analyze text data and detect emotions to support business decisio
 - Some emotions may be underrepresented in the dataset
 - Model performance may vary depending on text domain and language
 
+## Notebooks
+- `01_data_exploration.ipynb`: EDA on GoEmotions
+- `02_preprocessing.ipynb`: Text cleaning + exports processed CSVs
+
+
 ## Business Applications
 - Customer feedback analysis
 - Support ticket classification
